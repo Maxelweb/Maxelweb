@@ -1,7 +1,6 @@
 
 ## Ok, this is epic. 😄 
 
-Hold on for some days, im building my profile readme. 
 
 ![](https://i.pinimg.com/originals/5c/67/2b/5c672b033b599340eb62534743c4fcb7.gif)
 
