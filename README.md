@@ -1,12 +1,13 @@
 
-## Ok, this is epic. 😄 
+![](https://github-readme-stats.vercel.app/api?username=maxelweb&show_icons=true&theme=graywhite&count_private=true&border_radius=10)
 
 
-![](https://i.pinimg.com/originals/5c/67/2b/5c672b033b599340eb62534743c4fcb7.gif)
+
 
 
 
 <!-- ### Hi there 👋
+![](https://i.pinimg.com/originals/5c/67/2b/5c672b033b599340eb62534743c4fcb7.gif)
 **Maxelweb/Maxelweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
