@@ -1,5 +1,5 @@
 
-![](https://github-readme-stats.vercel.app/api?username=maxelweb&show_icons=true&theme=graywhite&count_private=true&border_radius=10)
+![](https://github-readme-stats.vercel.app/api?username=maxelweb&show_icons=true&theme=graywhite&count_private=true&border_radius=6)
 
 
 
